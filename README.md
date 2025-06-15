@@ -152,3 +152,13 @@ alembic revision --autogenerate -m "A descriptive message about the changes"
 After running this command:
 Review the newly generated migration script in the alembic/versions/ folder to ensure it's correct.
 Apply the migration to your database using the upgrade command shown above.
+
+## Live Demo
+
+The application is deployed and accessible at:
+
+🔗 [https://todoapi-i777.onrender.com](https://todoapi-i777.onrender.com)
+
+You can explore the interactive API documentation directly at:
+
+📘 Swagger UI: [https://todoapi-i777.onrender.com/docs](https://todoapi-i777.onrender.com/docs)
